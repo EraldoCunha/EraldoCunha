@@ -7,7 +7,7 @@
 <div align="center">
   <h2>🖖Olá, me chamo Eraldo! 🖖</h2>
   <p><strong>Formado em Administração de Empresas e cursando o 7º período de Engenharia de Software.</strong></p>
-  <p>Tenho experiência profissional em estágios na prefeitura da minha cidade e na controladoria de uma fábrica de rações da Seara, onde desenvolvi habilidades em faturamento, controle fiscal e atendimento ao público.</p>
+  <p>Tenho experiência profissional em um estágio na prefeitura da minha cidade e na controladoria de uma fábrica de rações da Seara, onde desenvolvi habilidades em faturamento, controle fiscal e atendimento ao público.</p>
   <p>Atualmente, estou me aprofundando em Java, Spring Boot, HTML e CSS, buscando expandir minhas habilidades e me preparar para novas oportunidades na área de desenvolvimento.</p>
 </div>
 
@@ -19,7 +19,7 @@
 
   <strong>Linguagens de Programação:</strong>
   <br><br>
-  <img alt="Programming Languages" src="https://skillicons.dev/icons?i=java,javascript,html,css,python"/>
+  <img alt="Programming Languages" src="https://skillicons.dev/icons?i=java,javascript,html,css"/>
   <br><br>
   <strong>Frameworks e Bibliotecas:</strong>
   <br><br>
